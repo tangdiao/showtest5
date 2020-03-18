@@ -1,0 +1,30 @@
+body {
+    font-family: "Helvetica Neue", sans-serif;
+    margin: 0 auto;
+    display: table;
+}
+.label {
+    font-size: .9em;
+}
+.label.strong {
+    font-weight: 900;
+}
+.bar-label {
+    font-size: .8em;
+    fill: #fff;
+}
+.legend {
+    font-size: .9em;
+    margin-bottom: 10px;
+}
+.swatch {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin-right: 4px;
+    margin-left: 8px;
+}
+.swatch:first-of-type {
+    margin-left: 0px;
+}
+LICENSE
